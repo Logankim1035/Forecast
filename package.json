@@ -1,0 +1,19 @@
+{
+  "name": "glistenlau",
+  "version": "1.0.0",
+  "description": "Weather Forecast Search Website",
+  "main": "app.js",
+  "dependencies": {
+    "xml2js": "^0.4.15"
+  },
+  "keywords": [
+    "weather",
+    "forecast"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glistenlau/forecast"
+  },
+  "author": "glistenlau <glistenlau@gmail.com>",
+  "license": "ISC"
+}
